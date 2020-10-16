@@ -1,5 +1,8 @@
 
 #include "imdb.h"
+#include "imdb.cpp"
+#include "imdbDB.h"
+#include "imdbDB.cpp"
 #include <gtest/gtest.h>
 
 TEST(IMDB, DefaulConstructor) {
