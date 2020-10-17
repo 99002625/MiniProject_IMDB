@@ -1,8 +1,14 @@
 
-#include "imdb.h"
-#include "imdb.cpp"
-#include "imdbDB.h"
-#include "imdbDB.cpp"
+#include "../src/imdb.h"
+#include "../src/imdbDB.h"
+
+
+#include "../src/movies.cpp"
+#include "../src/imdb.cpp"
+#include "../src/imdbDB.cpp"
+
+
+
 #include <gtest/gtest.h>
 
 TEST(IMDB, DefaulConstructor) {
