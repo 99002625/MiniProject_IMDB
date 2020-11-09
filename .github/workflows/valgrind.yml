@@ -23,4 +23,4 @@ jobs:
     - name: make
       run: make
     - name: Valgrind
-      run: valgrind ./out
+      run: valgrind ./all.out
