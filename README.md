@@ -5,7 +5,7 @@
  ![Valgrind](https://github.com/99002625/MiniProject_IMDB/workflows/Valgrind/badge.svg?branch=master)
  ![C/C++ CI](https://github.com/99002625/MiniProject_IMDB/workflows/C/C++%20CI/badge.svg?branch=master)
 
-# Design
+/* # Design
 * BaseClassMovies
     * DataMembes :
         *   Title
@@ -29,4 +29,4 @@ g++ test.o imdb.o movies.o -lgtest -lgtest_main -lpthread -o out
 
 g++ testDB.cpp imdbDB.cpp imdb.cpp movies.cpp -c
 g++ testDB.o imdbDB.o imdb.o movies.o -o out
-g++ testDB.cpp imdbDB.cpp imdb.cpp movies.cpp -o out
+g++ testDB.cpp imdbDB.cpp imdb.cpp movies.cpp -o out */ 
