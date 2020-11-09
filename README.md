@@ -6,19 +6,19 @@
  ![C/C++ CI](https://github.com/99002625/MiniProject_IMDB/workflows/C/C++%20CI/badge.svg?branch=master)
 
 # Design
-* Base class Movies
-    * Data Membes :
-        -   Title
-        -   Creators
-        -   Country   
-        -   Year
-        -   Genre
+* BaseClassMovies
+    * DataMembes :
+        *   Title
+        *   Creators
+        *   Country   
+        *   Year
+        *   Genre
     
 
     * Derived Class IMDB
         * Data Members
-            - rating
-            - totalVotes
+            * rating
+            * totalVotes
 `
 
 # Commands
